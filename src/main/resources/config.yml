@@ -1,0 +1,9 @@
+potions:
+  1:
+    type: HUNGER
+    duration: 20
+    amplifier: 0
+potions2: HUNGER;0;20
+potions3:
+  - HUNGER;0;20
+fast_digging: 10

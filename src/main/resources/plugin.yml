@@ -1,0 +1,11 @@
+name: Atom
+version: 1.0
+main: me.cyberproton.atom.Atom
+api-version: 1.13
+prefix: Atom
+authors: [Cyberproton]
+depend: [Vault, ProtocolLib]
+softdepend: [HeadDatabase, LibsDisguises, SkinsRestorer, WorldGuard]
+commands:
+  atom:
+    aliases: [a]
